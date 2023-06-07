@@ -1,0 +1,76 @@
+C:\Users\giampaolo.maggiore\Desktop\5A\Esercizio02_SRV\Esercizio02_SRV\bin\Debug\Esercizio02_SRV.exe.config
+C:\Users\giampaolo.maggiore\Desktop\5A\Esercizio02_SRV\Esercizio02_SRV\bin\Debug\Esercizio02_SRV.exe
+C:\Users\giampaolo.maggiore\Desktop\5A\Esercizio02_SRV\Esercizio02_SRV\bin\Debug\Esercizio02_SRV.pdb
+C:\Users\giampaolo.maggiore\Desktop\5A\Esercizio02_SRV\Esercizio02_SRV\obj\Debug\Esercizio02_SRV.csproj.AssemblyReference.cache
+C:\Users\giampaolo.maggiore\Desktop\5A\Esercizio02_SRV\Esercizio02_SRV\obj\Debug\Esercizio02_SRV.csproj.SuggestedBindingRedirects.cache
+C:\Users\giampaolo.maggiore\Desktop\5A\Esercizio02_SRV\Esercizio02_SRV\obj\Debug\Esercizio02_SRV.Properties.Resources.resources
+C:\Users\giampaolo.maggiore\Desktop\5A\Esercizio02_SRV\Esercizio02_SRV\obj\Debug\Esercizio02_SRV.csproj.GenerateResource.cache
+C:\Users\giampaolo.maggiore\Desktop\5A\Esercizio02_SRV\Esercizio02_SRV\obj\Debug\Esercizio02_SRV.csproj.CoreCompileInputs.cache
+C:\Users\giampaolo.maggiore\Desktop\5A\Esercizio02_SRV\Esercizio02_SRV\obj\Debug\Esercizio02_SRV.exe
+C:\Users\giampaolo.maggiore\Desktop\5A\Esercizio02_SRV\Esercizio02_SRV\obj\Debug\Esercizio02_SRV.pdb
+C:\Users\giampaolo.maggiore\Desktop\5A\Esercizio02_SRV\Esercizio02_SRV\obj\Debug\Esercizio02_SRV.Form1.resources
+C:\Users\pietr\OneDrive\Desktop\5° Superiore\SISTEMI\LABORATORIO\Socket\Esercizio02_SRV\Esercizio02_SRV\bin\Debug\Esercizio02_SRV.exe.config
+C:\Users\pietr\OneDrive\Desktop\5° Superiore\SISTEMI\LABORATORIO\Socket\Esercizio02_SRV\Esercizio02_SRV\bin\Debug\Esercizio02_SRV.exe
+C:\Users\pietr\OneDrive\Desktop\5° Superiore\SISTEMI\LABORATORIO\Socket\Esercizio02_SRV\Esercizio02_SRV\bin\Debug\Esercizio02_SRV.pdb
+C:\Users\pietr\OneDrive\Desktop\5° Superiore\SISTEMI\LABORATORIO\Socket\Esercizio02_SRV\Esercizio02_SRV\obj\Debug\Esercizio02_SRV.csproj.AssemblyReference.cache
+C:\Users\pietr\OneDrive\Desktop\5° Superiore\SISTEMI\LABORATORIO\Socket\Esercizio02_SRV\Esercizio02_SRV\obj\Debug\Esercizio02_SRV.csproj.SuggestedBindingRedirects.cache
+C:\Users\pietr\OneDrive\Desktop\5° Superiore\SISTEMI\LABORATORIO\Socket\Esercizio02_SRV\Esercizio02_SRV\obj\Debug\Esercizio02_SRV.Form1.resources
+C:\Users\pietr\OneDrive\Desktop\5° Superiore\SISTEMI\LABORATORIO\Socket\Esercizio02_SRV\Esercizio02_SRV\obj\Debug\Esercizio02_SRV.Properties.Resources.resources
+C:\Users\pietr\OneDrive\Desktop\5° Superiore\SISTEMI\LABORATORIO\Socket\Esercizio02_SRV\Esercizio02_SRV\obj\Debug\Esercizio02_SRV.csproj.GenerateResource.cache
+C:\Users\pietr\OneDrive\Desktop\5° Superiore\SISTEMI\LABORATORIO\Socket\Esercizio02_SRV\Esercizio02_SRV\obj\Debug\Esercizio02_SRV.csproj.CoreCompileInputs.cache
+C:\Users\pietr\OneDrive\Desktop\5° Superiore\SISTEMI\LABORATORIO\Socket\Esercizio02_SRV\Esercizio02_SRV\obj\Debug\Esercizio02_SRV.exe
+C:\Users\pietr\OneDrive\Desktop\5° Superiore\SISTEMI\LABORATORIO\Socket\Esercizio02_SRV\Esercizio02_SRV\obj\Debug\Esercizio02_SRV.pdb
+C:\Users\rober\OneDrive\Desktop\Scuola\Sistemi\Pratica\Socket\Esercizio02_SRV\Esercizio02_SRV\Esercizio02_SRV\obj\Debug\Esercizio02_SRV.csproj.AssemblyReference.cache
+C:\Users\rober\OneDrive\Desktop\Scuola\Sistemi\Pratica\Socket\Esercizio02_SRV\Esercizio02_SRV\Esercizio02_SRV\obj\Debug\Esercizio02_SRV.csproj.SuggestedBindingRedirects.cache
+C:\Users\rober\OneDrive\Desktop\Scuola\Sistemi\Pratica\Socket\Esercizio02_SRV\Esercizio02_SRV\Esercizio02_SRV\obj\Debug\Esercizio02_SRV.exe
+C:\Users\rober\OneDrive\Desktop\Scuola\Sistemi\Pratica\Socket\Esercizio02_SRV\Esercizio02_SRV\Esercizio02_SRV\obj\Debug\Esercizio02_SRV.pdb
+C:\Users\rober\OneDrive\Desktop\Scuola\Sistemi\Pratica\Socket\Esercizio02_SRV\Esercizio02_SRV\Esercizio02_SRV\bin\Debug\Esercizio02_SRV.exe.config
+C:\Users\rober\OneDrive\Desktop\Scuola\Sistemi\Pratica\Socket\Esercizio02_SRV\Esercizio02_SRV\Esercizio02_SRV\bin\Debug\Esercizio02_SRV.exe
+C:\Users\rober\OneDrive\Desktop\Scuola\Sistemi\Pratica\Socket\Esercizio02_SRV\Esercizio02_SRV\Esercizio02_SRV\bin\Debug\Esercizio02_SRV.pdb
+C:\Users\rober\OneDrive\Desktop\Scuola\Sistemi\Pratica\Socket\Esercizio02_SRV\Esercizio02_SRV\Esercizio02_SRV\obj\Debug\Esercizio02_SRV.Form1.resources
+C:\Users\rober\OneDrive\Desktop\Scuola\Sistemi\Pratica\Socket\Esercizio02_SRV\Esercizio02_SRV\Esercizio02_SRV\obj\Debug\Esercizio02_SRV.Properties.Resources.resources
+C:\Users\rober\OneDrive\Desktop\Scuola\Sistemi\Pratica\Socket\Esercizio02_SRV\Esercizio02_SRV\Esercizio02_SRV\obj\Debug\Esercizio02_SRV.csproj.GenerateResource.cache
+C:\Users\rober\OneDrive\Desktop\Scuola\Sistemi\Pratica\Socket\Esercizio02_SRV\Esercizio02_SRV\Esercizio02_SRV\obj\Debug\Esercizio02_SRV.csproj.CoreCompileInputs.cache
+C:\Users\rober\OneDrive\Desktop\Scuola\Sistemi\Pratica\Socket\GuessWho\Esercizio02_SRV\Esercizio02_SRV\Esercizio02_SRV\bin\Debug\Esercizio02_SRV.exe.config
+C:\Users\rober\OneDrive\Desktop\Scuola\Sistemi\Pratica\Socket\GuessWho\Esercizio02_SRV\Esercizio02_SRV\Esercizio02_SRV\bin\Debug\Esercizio02_SRV.exe
+C:\Users\rober\OneDrive\Desktop\Scuola\Sistemi\Pratica\Socket\GuessWho\Esercizio02_SRV\Esercizio02_SRV\Esercizio02_SRV\bin\Debug\Esercizio02_SRV.pdb
+C:\Users\rober\OneDrive\Desktop\Scuola\Sistemi\Pratica\Socket\GuessWho\Esercizio02_SRV\Esercizio02_SRV\Esercizio02_SRV\obj\Debug\Esercizio02_SRV.csproj.AssemblyReference.cache
+C:\Users\rober\OneDrive\Desktop\Scuola\Sistemi\Pratica\Socket\GuessWho\Esercizio02_SRV\Esercizio02_SRV\Esercizio02_SRV\obj\Debug\Esercizio02_SRV.csproj.SuggestedBindingRedirects.cache
+C:\Users\rober\OneDrive\Desktop\Scuola\Sistemi\Pratica\Socket\GuessWho\Esercizio02_SRV\Esercizio02_SRV\Esercizio02_SRV\obj\Debug\Esercizio02_SRV.Form1.resources
+C:\Users\rober\OneDrive\Desktop\Scuola\Sistemi\Pratica\Socket\GuessWho\Esercizio02_SRV\Esercizio02_SRV\Esercizio02_SRV\obj\Debug\Esercizio02_SRV.Properties.Resources.resources
+C:\Users\rober\OneDrive\Desktop\Scuola\Sistemi\Pratica\Socket\GuessWho\Esercizio02_SRV\Esercizio02_SRV\Esercizio02_SRV\obj\Debug\Esercizio02_SRV.csproj.GenerateResource.cache
+C:\Users\rober\OneDrive\Desktop\Scuola\Sistemi\Pratica\Socket\GuessWho\Esercizio02_SRV\Esercizio02_SRV\Esercizio02_SRV\obj\Debug\Esercizio02_SRV.csproj.CoreCompileInputs.cache
+C:\Users\rober\OneDrive\Desktop\Scuola\Sistemi\Pratica\Socket\GuessWho\Esercizio02_SRV\Esercizio02_SRV\Esercizio02_SRV\obj\Debug\Esercizio02_SRV.exe
+C:\Users\rober\OneDrive\Desktop\Scuola\Sistemi\Pratica\Socket\GuessWho\Esercizio02_SRV\Esercizio02_SRV\Esercizio02_SRV\obj\Debug\Esercizio02_SRV.pdb
+C:\Users\rober\OneDrive\Desktop\Scuola\Sistemi\Pratica\Socket\GuessWho\Esercizio02_SRV\Esercizio02_SRV\Esercizio02_SRV\obj\Debug\Esercizio02_SRV.game.resources
+C:\Users\rober\OneDrive\Desktop\Scuola\Sistemi\Pratica\Socket\GuessWho\Esercizio02_SRV\Esercizio02_SRV\Esercizio02_SRV\obj\Debug\Esercizio02_SRV.client.resources
+C:\Users\pietr\OneDrive\Desktop\5° Superiore\SISTEMI\Progetto\FUNZIONANTE\Esercizio02_SRV\Esercizio02_SRV\bin\Debug\Esercizio02_SRV.exe.config
+C:\Users\pietr\OneDrive\Desktop\5° Superiore\SISTEMI\Progetto\FUNZIONANTE\Esercizio02_SRV\Esercizio02_SRV\bin\Debug\Esercizio02_SRV.exe
+C:\Users\pietr\OneDrive\Desktop\5° Superiore\SISTEMI\Progetto\FUNZIONANTE\Esercizio02_SRV\Esercizio02_SRV\obj\Debug\Esercizio02_SRV.csproj.AssemblyReference.cache
+C:\Users\pietr\OneDrive\Desktop\5° Superiore\SISTEMI\Progetto\FUNZIONANTE\Esercizio02_SRV\Esercizio02_SRV\obj\Debug\Esercizio02_SRV.csproj.SuggestedBindingRedirects.cache
+C:\Users\pietr\OneDrive\Desktop\5° Superiore\SISTEMI\Progetto\FUNZIONANTE\Esercizio02_SRV\Esercizio02_SRV\obj\Debug\Esercizio02_SRV.client.resources
+C:\Users\pietr\OneDrive\Desktop\5° Superiore\SISTEMI\Progetto\FUNZIONANTE\Esercizio02_SRV\Esercizio02_SRV\obj\Debug\Esercizio02_SRV.Form1.resources
+C:\Users\pietr\OneDrive\Desktop\5° Superiore\SISTEMI\Progetto\FUNZIONANTE\Esercizio02_SRV\Esercizio02_SRV\obj\Debug\Esercizio02_SRV.game.resources
+C:\Users\pietr\OneDrive\Desktop\5° Superiore\SISTEMI\Progetto\FUNZIONANTE\Esercizio02_SRV\Esercizio02_SRV\obj\Debug\Esercizio02_SRV.Properties.Resources.resources
+C:\Users\pietr\OneDrive\Desktop\5° Superiore\SISTEMI\Progetto\FUNZIONANTE\Esercizio02_SRV\Esercizio02_SRV\obj\Debug\Esercizio02_SRV.csproj.GenerateResource.cache
+C:\Users\pietr\OneDrive\Desktop\5° Superiore\SISTEMI\Progetto\FUNZIONANTE\Esercizio02_SRV\Esercizio02_SRV\obj\Debug\Esercizio02_SRV.csproj.CoreCompileInputs.cache
+C:\Users\pietr\OneDrive\Desktop\5° Superiore\SISTEMI\Progetto\FUNZIONANTE\Esercizio02_SRV\Esercizio02_SRV\obj\Debug\Esercizio02_SRV.exe
+C:\Users\pietr\OneDrive\Desktop\5° Superiore\SISTEMI\Progetto\FUNZIONANTE\Esercizio02_SRV\Esercizio02_SRV\obj\Debug\Esercizio02_SRV.pdb
+C:\Users\pietr\OneDrive\Desktop\5° Superiore\SISTEMI\Progetto\FUNZIONANTE\Esercizio02_SRV\Esercizio02_SRV\bin\Debug\Esercizio02_SRV.pdb
+C:\Users\pietr\OneDrive\Desktop\5° Superiore\SISTEMI\Progetto\FUNZIONANTE\Esercizio02_SRV\Esercizio02_SRV\obj\Debug\Esercizio02_SRV.server.resources
+C:\Users\pietr\OneDrive\Desktop\5° Superiore\SISTEMI\Progetto\FUNZIONANTE\Esercizio02_SRV\Esercizio02_SRV\obj\Debug\Esercizio02_SRV.Istruzioni.resources
+C:\Users\rober\OneDrive\Desktop\Esercizio02_SRV\Esercizio02_SRV\obj\Debug\Esercizio02_SRV.csproj.AssemblyReference.cache
+C:\Users\rober\OneDrive\Desktop\Esercizio02_SRV\Esercizio02_SRV\obj\Debug\Esercizio02_SRV.csproj.SuggestedBindingRedirects.cache
+C:\Users\rober\OneDrive\Desktop\Esercizio02_SRV\Esercizio02_SRV\obj\Debug\Esercizio02_SRV.exe
+C:\Users\rober\OneDrive\Desktop\Esercizio02_SRV\Esercizio02_SRV\obj\Debug\Esercizio02_SRV.pdb
+C:\Users\rober\OneDrive\Desktop\Esercizio02_SRV\Esercizio02_SRV\bin\Debug\Esercizio02_SRV.exe.config
+C:\Users\rober\OneDrive\Desktop\Esercizio02_SRV\Esercizio02_SRV\bin\Debug\Esercizio02_SRV.exe
+C:\Users\rober\OneDrive\Desktop\Esercizio02_SRV\Esercizio02_SRV\bin\Debug\Esercizio02_SRV.pdb
+C:\Users\rober\OneDrive\Desktop\Esercizio02_SRV\Esercizio02_SRV\obj\Debug\Esercizio02_SRV.client.resources
+C:\Users\rober\OneDrive\Desktop\Esercizio02_SRV\Esercizio02_SRV\obj\Debug\Esercizio02_SRV.Form1.resources
+C:\Users\rober\OneDrive\Desktop\Esercizio02_SRV\Esercizio02_SRV\obj\Debug\Esercizio02_SRV.game.resources
+C:\Users\rober\OneDrive\Desktop\Esercizio02_SRV\Esercizio02_SRV\obj\Debug\Esercizio02_SRV.Istruzioni.resources
+C:\Users\rober\OneDrive\Desktop\Esercizio02_SRV\Esercizio02_SRV\obj\Debug\Esercizio02_SRV.Properties.Resources.resources
+C:\Users\rober\OneDrive\Desktop\Esercizio02_SRV\Esercizio02_SRV\obj\Debug\Esercizio02_SRV.server.resources
+C:\Users\rober\OneDrive\Desktop\Esercizio02_SRV\Esercizio02_SRV\obj\Debug\Esercizio02_SRV.csproj.GenerateResource.cache
+C:\Users\rober\OneDrive\Desktop\Esercizio02_SRV\Esercizio02_SRV\obj\Debug\Esercizio02_SRV.csproj.CoreCompileInputs.cache

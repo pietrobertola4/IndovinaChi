@@ -1,0 +1,15 @@
+C:\Users\pietr\OneDrive\Desktop\GuessWhoPiuBello\Esercizio02_SRV\Esercizio02_SRV\obj\Debug\IndovinaChi.csproj.AssemblyReference.cache
+C:\Users\pietr\OneDrive\Desktop\GuessWhoPiuBello\Esercizio02_SRV\Esercizio02_SRV\obj\Debug\IndovinaChi.csproj.SuggestedBindingRedirects.cache
+C:\Users\pietr\OneDrive\Desktop\GuessWhoPiuBello\Esercizio02_SRV\Esercizio02_SRV\obj\Debug\Esercizio02_SRV.exe
+C:\Users\pietr\OneDrive\Desktop\GuessWhoPiuBello\Esercizio02_SRV\Esercizio02_SRV\obj\Debug\Esercizio02_SRV.pdb
+C:\Users\pietr\OneDrive\Desktop\GuessWhoPiuBello\Esercizio02_SRV\Esercizio02_SRV\bin\Debug\Esercizio02_SRV.exe.config
+C:\Users\pietr\OneDrive\Desktop\GuessWhoPiuBello\Esercizio02_SRV\Esercizio02_SRV\bin\Debug\Esercizio02_SRV.exe
+C:\Users\pietr\OneDrive\Desktop\GuessWhoPiuBello\Esercizio02_SRV\Esercizio02_SRV\bin\Debug\Esercizio02_SRV.pdb
+C:\Users\pietr\OneDrive\Desktop\GuessWhoPiuBello\Esercizio02_SRV\Esercizio02_SRV\obj\Debug\Esercizio02_SRV.client.resources
+C:\Users\pietr\OneDrive\Desktop\GuessWhoPiuBello\Esercizio02_SRV\Esercizio02_SRV\obj\Debug\Esercizio02_SRV.Form1.resources
+C:\Users\pietr\OneDrive\Desktop\GuessWhoPiuBello\Esercizio02_SRV\Esercizio02_SRV\obj\Debug\Esercizio02_SRV.game.resources
+C:\Users\pietr\OneDrive\Desktop\GuessWhoPiuBello\Esercizio02_SRV\Esercizio02_SRV\obj\Debug\Esercizio02_SRV.Istruzioni.resources
+C:\Users\pietr\OneDrive\Desktop\GuessWhoPiuBello\Esercizio02_SRV\Esercizio02_SRV\obj\Debug\Esercizio02_SRV.Properties.Resources.resources
+C:\Users\pietr\OneDrive\Desktop\GuessWhoPiuBello\Esercizio02_SRV\Esercizio02_SRV\obj\Debug\Esercizio02_SRV.server.resources
+C:\Users\pietr\OneDrive\Desktop\GuessWhoPiuBello\Esercizio02_SRV\Esercizio02_SRV\obj\Debug\IndovinaChi.csproj.GenerateResource.cache
+C:\Users\pietr\OneDrive\Desktop\GuessWhoPiuBello\Esercizio02_SRV\Esercizio02_SRV\obj\Debug\IndovinaChi.csproj.CoreCompileInputs.cache
